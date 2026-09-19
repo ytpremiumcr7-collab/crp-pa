@@ -1,0 +1,33 @@
+Piedra Angular
+Contratación y obra pública · México
+Corte de fuentes: 19 septiembre 2026
+
+Qué es
+Corpus de leyes, reglamentos y tabuladores de obra pública y adquisiciones.
+Sólo fuentes gubernamentales o legislativas (.gob.mx, congresos, DOF, periódicos oficiales).
+Un PDF que todavía abre no es, por eso, el texto vigente.
+
+Ingesta de costos (19-sep-2026)
+160 URLs únicas de los mapeos estatal/municipal.
+27 entran (portales de costos que faltaban + binarios con APU que abrieron).
+34 ya estaban. 99 se quedan fuera: series duplicadas, visores de un ID,
+periódicos oficiales como si fueran tabulador, organigramas, presupuestos.
+
+Huecos que siguen (para quien busque)
+
+Ley de obra pública aislada: ninguna de las 32.
+
+Ley de adquisiciones aislada: ninguna de las 32.
+  Cerrados en este corte (PDFs oficiales HTTP 200):
+  Chiapas LEY_0016 (reforma 30-dic-2025), Michoacán (reforma 5-nov-2020),
+  Nayarit (enmienda 24-may-2023), Sonora Ley 87 (reforma 30-dic-2024),
+  Tabasco (decreto 232, 14-feb-2026).
+
+Muestra municipal con host vivo: las 32 entidades ya tienen al menos una.
+  Chiapas entra por Tapachula (Tuxtla 403). Oaxaca de Juárez abrió en la raíz
+  municipiodeoaxaca.gob.mx. México tiene ~2,478 municipios: esto es una muestra,
+  no el padrón.
+
+Tabulador general estatal vigente:
+  Todo salvo Chiapas y CDMX. Chihuahua INIFECH, sin año confirmado.
+  Guanajuato UEC 2026 T2 cubre regiones, no se duplican seis PDFs.
