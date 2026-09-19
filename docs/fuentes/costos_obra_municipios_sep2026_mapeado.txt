@@ -1,0 +1,263 @@
+MÉXICO — CAPA MUNICIPAL — COSTOS / PRECIOS UNITARIOS DE OBRA PÚBLICA
+CORTE: 19 SEPTIEMBRE 2026
+
+IMPORTANTE:
+Este archivo NO afirma que los ~2,478 municipios de México estén individualmente cerrados.
+Contiene fuentes municipales oficiales localizadas y, cuando existe, la fuente estatal que cubre/estructura la capa municipal.
+No se sustituyen municipios sin publicación por enlaces privados o de pago.
+
+==============================================================================
+AGUASCALIENTES — Municipio de Aguascalientes
+Portal/visor municipal de contratos vigente; para estructura de costos detallada usar también fuente estatal 2026.
+
+https://www.ags.gob.mx/transparencia/contratosvisualizador/VisorActa.aspx?Acta=773
+
+==============================================================================
+BAJA CALIFORNIA — Mexicali
+Base municipal detallada 2025 con APU, FSR/salarios, costo horario de maquinaria, insumos e indirectos.
+
+https://www.mexicali.gob.mx/transparencia/nuevaley/obraspublicas/2025/AD-MXL-PRON-058-2025/AD-MXL-PRON-058-2025%20INVITACION.pdf
+
+==============================================================================
+BAJA CALIFORNIA SUR — La Paz
+Última pieza municipal localizada en la pasada; no se localizó tabulador municipal 2026 abierto.
+
+https://www.lapaz.gob.mx/storage/boletines/cYTlJZN9vef5DkU2jmT8AsjCeguUtGLISpR3zcNz.pdf
+
+==============================================================================
+CAMPECHE — Municipio de Campeche
+Módulos regulatorios/contratación del Ayuntamiento; no se confirmó un tabulador municipal 2026 descargable.
+
+https://www.municipiocampeche.gob.mx/registro-de-regulaciones/
+https://www.municipiocampeche.gob.mx/estatal/
+https://www.municipiocampeche.gob.mx/transparencia-proactiva/
+
+==============================================================================
+CHIAPAS — Tuxtla Gutiérrez
+Normatividad municipal vigente; para precios usar los tabuladores estatales SEINFRA más recientes localizados.
+
+https://tuxtla.gob.mx/1Normatividad-vigente
+https://www.seinfra.chiapas.gob.mx/catalogo_precios.php
+
+==============================================================================
+CHIHUAHUA — Chihuahua capital
+Convocatoria municipal 2026 a precios unitarios publicada en Periódico Oficial.
+
+https://chihuahua.gob.mx/sites/default/atach2/periodico-oficial/periodicos/2026-02/PO17-2026.pdf
+https://chihuahua.gob.mx/sites/default/atach2/periodico-oficial/periodicos/2026-01/PO05-2026.pdf
+
+==============================================================================
+CHIHUAHUA — Nuevo Casas Grandes / Balleza
+Convocatorias municipales 2026 a precios unitarios publicadas oficialmente.
+
+https://chihuahua.gob.mx/sites/default/atach2/periodico-oficial/periodicos/2026-03/PO18-2026.pdf
+https://chihuahua.gob.mx/sites/default/atach2/periodico-oficial/periodicos/2026-03/PO20-2026.pdf
+
+==============================================================================
+CIUDAD DE MÉXICO — Alcaldías
+Tabulador General CDMX 2026 es la referencia transversal de obra pública local.
+
+https://www.obras.cdmx.gob.mx/normas-tabulador/tabulador-general-de-precios-unitarios
+https://obras.cdmx.gob.mx/storage/app/media/Tabulador%20general%20de%20precios%20unitarios%20Enero%202026/tabulador-general-de-precios-unitarios-del-gobierno-de-la-ciudad-de-mexico-actualizacion-de-enero-2026.pdf
+
+==============================================================================
+COAHUILA — municipios
+No se localizó en la pasada un tabulador municipal 2026 libre; se conserva SECOP y base estatal como referencia normativa/licitatoria.
+
+https://www.sefincoahuila.gob.mx/sistemas/Secop/
+https://www.sefircoahuila.gob.mx/wp-content/uploads/normatividad/CONVOCATORIA-BASES-OPE.pdf
+
+==============================================================================
+COLIMA — municipios
+SECOP estatal concentra procedimientos; no se confirmó tabulador municipal general 2026.
+
+https://secop.col.gob.mx/
+
+==============================================================================
+DURANGO — Municipio de Durango
+Base municipal 2026 directa.
+
+https://comprasestatal.durango.gob.mx/ProcedimientosDeContratacion/descarga/anexo/37516
+
+==============================================================================
+GUANAJUATO — municipios
+La UEC/SOP permite seleccionar municipio y publica tabuladores regionales 2026 T2.
+
+https://obrapublica.guanajuato.gob.mx/unidad-estatal-de-costos/tabuladores-de-referencia/
+https://obrapublica.guanajuato.gob.mx/docs/8095/2026._T2._R_I.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8098/2026._T2._R_II.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8099/2026._T2._R_III.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8096/2026._T2._R_IV.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8097/2026._T2._R_V.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8100/2026._T2._R_VI.pdf
+
+==============================================================================
+GUERRERO — Alcozauca
+Lineamientos municipales oficiales; no es tabulador de precios vigente, pero exige actualización/análisis de materiales, mano de obra, herramienta, equipo y maquinaria.
+
+https://alcozauca.guerrero.gob.mx/wp-content/uploads/2025/04/POLITICAS-BASES-Y-LINEAMIENTOS-EN-MATERIA-DE-OBRA-PUBLICA.pdf
+
+==============================================================================
+HIDALGO — municipios / Huehuetla
+Las bases modelo 2026 del Estado se declaran utilizables por municipios; Huehuetla conserva base municipal directa.
+
+https://ruts.hidalgo.gob.mx/ver/480
+https://s-contraloria.hidalgo.gob.mx/interes/6._Bases_Licitaci%C3%B3n_Obra_Estatal_2026.docx
+https://huehuetla.hidalgo.gob.mx/assets/pdf/TRANSPARENCIA/adjudicacionDirecta/invitacionTresPersonas/2025/2025-FAISM027042-INV3-12-2025/Bases_Invitaci%C3%B3n_Obra_Estatal.pdf
+
+==============================================================================
+JALISCO — Guadalajara
+Documento municipal 2026.
+
+https://siogdl.guadalajara.gob.mx/visor/obtenerDocumentoInLineConEncabezadoVisor/1002329
+
+==============================================================================
+JALISCO — Tlajomulco
+Bases municipales 2026 con integración económica.
+
+https://www.tlajomulco.gob.mx/sites/default/files/024-26_bases.pdf
+https://tlajomulco.gob.mx/sites/default/files/020-26_bases.pdf
+https://www.tlajomulco.gob.mx/sites/default/files/017-26_bases.pdf
+
+==============================================================================
+JALISCO — Zapopan
+Bases municipales 2026.
+
+https://www.zapopan.gob.mx/wp-content/uploads/2026/04/BASES-OBRA-DCI-001-2026.pdf
+
+==============================================================================
+ESTADO DE MÉXICO — Toluca
+Gaceta/Manual municipal publicado en 2026; describe funciones/procedimientos de precios unitarios.
+
+https://www2.toluca.gob.mx/wp-content/uploads/2026/01/44-2025-Gaceta-15-12-2025-.pdf
+
+==============================================================================
+ESTADO DE MÉXICO — Aculco
+Manual municipal de Obras Públicas; no se trata de tabla vigente de precios.
+
+https://aculco.edomex.gob.mx/sites/aculco.edomex.gob.mx/files/files/Anteproyecto-del-Manual-de-Organizacion-de-la-Direccion-de-Obras-Publicas-y-Desarrollo-Urbano..pdf
+
+==============================================================================
+MICHOACÁN — Morelia
+Fallo/procedimiento municipal reciente; fuente complementaria. Base histórica detallada incluida sólo para estructura.
+
+https://morelos.morelia.gob.mx/ArchivosTranspMorelia/Art3521/Lic/FraccXXVIIb/SA-066%20DICTAMEN%20DE%20FALLO.pdf
+https://morelos.morelia.gob.mx/ArchivosTransp2017/Articulo35/Licitaciones/fraccXXVII/IO816053997E602016CONVOCATORIA.pdf
+
+==============================================================================
+MORELOS — Cuernavaca
+Ley de Ingresos municipal 2026 referencia catálogos vigentes CEAGUA/CONAGUA; no es un tabulador municipal propio.
+
+https://cuernavaca.gob.mx/contabilidad/wp-content/uploads/2026/03/Ley-ingresos-cvca-2026.pdf
+
+==============================================================================
+MORELOS — Jiutepec
+Reglas municipales; documento no 2026, usar sólo como estructura complementaria.
+
+https://marcojuridico.morelos.gob.mx/archivos/varios/pdf/RCOMPROBAGASTOSCAPSJ.pdf
+
+==============================================================================
+NAYARIT — Tepic
+Último contrato/directo municipal localizado en repositorio; no se localizó tabulador municipal 2026 abierto.
+
+https://docs.tepic.gob.mx/A4101393
+
+==============================================================================
+NUEVO LEÓN — municipios
+SMPU es plataforma estatal de seguimiento/concursos; no se confirmó tabulador municipal general 2026 en Monterrey.
+
+https://smpu.nl.gob.mx/
+
+==============================================================================
+OAXACA — Oaxaca de Juárez
+Procedimientos municipales 2026 en Periódico Oficial/SIDOF; no se confirmó tabulador municipal propio de precios.
+
+https://periodicooficial.oaxaca.gob.mx/files/2026/03/EXT-OAXCCONV-2026-03-12.pdf
+https://sidof.segob.gob.mx/notas/docFuente/5796758
+
+==============================================================================
+PUEBLA — Municipio de Puebla
+Bases municipales 2026 con materiales/mano de obra, FSR, salarios, maquinaria, indirectos.
+
+https://www.pueblacapital.gob.mx/media/com_dpattachments/attachments/com_content.article/LP-CMOP-008-2026.pdf
+https://pueblacapital.gob.mx/media/com_dpattachments/attachments/com_content.article/LP-CMOP-001-2026.pdf
+https://pueblacapital.gob.mx/media/com_dpattachments/attachments/com_content.article/LP-CMOP-005-2026.pdf
+
+==============================================================================
+QUERÉTARO — Municipio de Querétaro
+Portal municipal + lineamientos/procedimiento de revisión de precios unitarios.
+
+https://municipiodequeretaro.gob.mx/obras-publicas/
+https://sair.municipiodequeretaro.gob.mx/Documentos/Formatos/30_590.pdf
+https://municipiodequeretaro.gob.mx/municipio/repositorios/transparencia/a66/3T25/sop/SOP-2025-0015_Censurado.pdf
+
+==============================================================================
+QUINTANA ROO — Benito Juárez / Cancún
+Marco oficial municipal/estatal de obra; no se localizó base económica municipal 2026 descargable.
+
+https://transparencia.cancun.gob.mx/uploads/24/38/L31-Xvii-20240710-L1720240710228%20L%20Obras%20Publicas%20Y%20Servicios%20R.pdf
+
+==============================================================================
+SAN LUIS POTOSÍ — Municipio de San Luis Potosí
+Última base municipal detallada localizada: 2024; contiene APU, insumos, mano de obra, maquinaria, indirectos, financiamiento y utilidad.
+
+https://sitio.sanluis.gob.mx/pagAyuntamientoCMS/storage/Licitaciones/LO-EST-245800030-96-2024/Anexos/LO-EST-245800030-96-2024_TERMINOS%20REFERENCIA/%20CATALOGO%20DE%20CONCEPTOS.pdf
+
+==============================================================================
+SINALOA — Culiacán
+Documento municipal publicado dentro de CompraNet Sinaloa.
+
+https://compranet.sinaloa.gob.mx/uploads/files/049e70bf31e6b21c35b244c73c82f17e.pdf
+
+==============================================================================
+SINALOA — El Rosario
+Módulo municipal dentro de CompraNet Sinaloa.
+
+https://compranet.sinaloa.gob.mx/h-ayuntamiento-de-el-rosario
+
+==============================================================================
+SONORA — municipios
+No se confirmó en la pasada un tabulador municipal 2026 libre; usar CompraNet estatal para expedientes municipales cuando estén publicados.
+
+https://compranet.sonora.gob.mx/
+
+==============================================================================
+TABASCO — Centro / Villahermosa
+Portal municipal vigente y Periódico Oficial 2026 con contratos/proyectos a precios unitarios; no se localizó tabulador municipal general abierto.
+
+https://transparencia.villahermosa.gob.mx/
+https://publicacionperiodico.tabasco.gob.mx/documento/8069/firmado_qr.pdf
+
+==============================================================================
+TAMAULIPAS — Ciudad Victoria
+Presupuesto municipal 2026; para estructura de PU usar también la fuente estatal 2026.
+
+https://www.ciudadvictoria.gob.mx/wp-content/uploads/administracion_2024_2027/tesoreria/norma_2/4.Presupuesto%20de%20Egresos%20Municipales.pdf
+
+==============================================================================
+TLAXCALA — municipios
+No se confirmó tabulador municipal 2026 abierto. Portal estatal OMG contiene bases/formatos económicos aplicables en contratación pública.
+
+https://omg.tlaxcala.gob.mx/
+
+==============================================================================
+VERACRUZ — Municipio de Veracruz
+Actas municipales 2025 con revisión de APU, indirectos, tabla de salarios/FSR y maquinaria.
+
+https://gobiernoabierto.veracruzmunicipio.gob.mx/wp-content/uploads/2025/06/0402-Acta-de-adjudicacion-o-fallo.pdf
+https://gobiernoabierto.veracruzmunicipio.gob.mx/wp-content/uploads/2025/06/0226-Acta-de-adjudicacion-o-fallo.pdf
+
+==============================================================================
+YUCATÁN — Mérida
+Gaceta 2026 y portal regulatorio municipal; integración/contratos a precios unitarios.
+
+https://www.merida.gob.mx/gaceta/doc/2701-2800/gaceta_2746.pdf
+https://portalciudadano.merida.gob.mx/RegulacionesEnLinea/detalle-regulacion/23
+https://portalciudadano.merida.gob.mx/RegulacionesEnLinea/detalle-regulacion/148
+
+==============================================================================
+ZACATECAS — Zacatecas capital
+Normateca y Gaceta municipal vigentes; no se confirmó tabulador municipal 2026 directo con precios.
+
+https://portal.capitaldezacatecas.gob.mx/normateca
+https://gaceta.capitaldezacatecas.gob.mx/reglamentacion-municipal/
