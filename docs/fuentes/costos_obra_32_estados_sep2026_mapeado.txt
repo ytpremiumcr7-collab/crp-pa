@@ -1,0 +1,382 @@
+MÉXICO — COSTOS DE OBRA PÚBLICA — 32 ENTIDADES
+CORTE: 19 SEPTIEMBRE 2026
+
+CRITERIO:
+1) Prioridad a tabulador/catálogo oficial vigente.
+2) Si no existe públicamente, bases oficiales actuales con APU, salarios/mano de obra, maquinaria, directos, indirectos, financiamiento/utilidad.
+3) Si la autoridad no expone archivo económico gratuito, se deja el portal y se dice explícitamente.
+4) No se incluyen Scribd, Studocu, repositorios de pago ni copias privadas.
+
+FUENTES NACIONALES COMPLEMENTARIAS
+SALARIO MÍNIMO 2026 — DOF
+https://dof.gob.mx/nota_detalle_popup.php?codigo=5775534
+UMA 2026 — INEGI
+https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf
+
+==============================================================================
+AGUASCALIENTES
+2026 — bases oficiales con integración económica (APU, mano de obra, maquinaria, indirectos/financiamiento/utilidad).
+
+PORTAL / MÓDULO
+https://www.aguascalientes.gob.mx/sop/
+
+DOCUMENTO(S) DIRECTO(S)
+https://eservicios2.aguascalientes.gob.mx/sop/appsWEBSOP/UI/licitacionesVigentes/frmOtros.aspx?IdDocumento=41425
+https://eservicios2.aguascalientes.gob.mx/sop/appsWEBSOP/UI/licitacionesVigentes/frmOtros.aspx?IdDocumento=41424
+https://eservicios2.aguascalientes.gob.mx/sop/appsWEBSOP/UI/licitacionesVigentes/frmOtros.aspx?IdDocumento=41426
+
+==============================================================================
+BAJA CALIFORNIA
+2026 — portal estatal vigente. No se localizó un tabulador general estatal gratuito; se conserva procedimiento 2026 y la capa municipal detallada de Mexicali.
+
+PORTAL / MÓDULO
+https://tramites.ebajacalifornia.gob.mx/Compras/Licitaciones
+
+DOCUMENTO(S) DIRECTO(S)
+https://tramites.ebajacalifornia.gob.mx/Compras/Licitaciones/VerDetalle?folio=32065001-092-2026
+
+==============================================================================
+BAJA CALIFORNIA SUR
+2026 — existe Dirección de Precios Unitarios y transparencia de licitaciones; no se localizó tabulador general 2026 libre. Manual directo oficial disponible como documento metodológico, no como precios vigentes.
+
+PORTAL / MÓDULO
+https://sepuimm.bcs.gob.mx/areas-sepuit/direccion-de-precios-unitarios-y-concursos-de-obra/
+https://sepuimm.bcs.gob.mx/normatividad/
+https://cea.bcs.gob.mx/informacion-publica/articulo-75/fraccion-xxviii/
+https://transparencia.bcs.gob.mx/jec/informacion-publica/articulo-75/fraccion-xxviii/
+
+DOCUMENTO(S) DIRECTO(S)
+https://sepuimm.bcs.gob.mx/wp-content/uploads/2021/09/Direcci%C3%B3n-de-Precios-Unitarios-y-Concursos-de-Obras.pdf
+
+==============================================================================
+CAMPECHE
+2026 — módulo estatal de licitaciones vigente. No se validó un PDF económico general estable y gratuito expuesto por el portal.
+
+PORTAL / MÓDULO
+https://sedumop.campeche.gob.mx/licitaciones-publicas-estatales-2026/
+https://sedumop.campeche.gob.mx/licitacion-publica-estatal-no-sedumop-dgagop-lpo-027-2026-lpo-dro-028-2026/
+https://sedumop.campeche.gob.mx/licitacion-publica-estatal-no-sedumop-dgagop-lpo-025-2026/
+
+DOCUMENTO(S) DIRECTO(S)
+NO SE LOCALIZÓ ARCHIVO ECONÓMICO DIRECTO GRATUITO/ESTABLE EN LA PASADA
+
+==============================================================================
+CHIAPAS
+Últimos tabuladores públicos descargables localizados: 2025. El Estado reporta trabajo de homologación/actualización 2026, pero no se rebautiza el archivo 2025 como 2026.
+
+PORTAL / MÓDULO
+https://www.seinfra.chiapas.gob.mx/catalogo_precios.php
+https://seinfra.chiapas.gob.mx/ctapublica.php
+https://www.serape.chiapas.gob.mx/boletinInf?B=Nzc1%3E
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.seinfra.chiapas.gob.mx/descargassop/03_Tabulador_Edificacion_2025.pdf
+https://seinfra.chiapas.gob.mx/descargassop/04_Tabulador_Agua_Potable_2025.pdf
+
+==============================================================================
+CHIHUAHUA
+2026 — bases oficiales estatales con propuesta económica y estructura de precios unitarios.
+
+PORTAL / MÓDULO
+https://contrataciones.chihuahua.gob.mx/
+https://www.chihuahua.gob.mx/scop
+
+DOCUMENTO(S) DIRECTO(S)
+https://contratosadm.chihuahua.gob.mx/descarga_portal.aspx?dj=ZPDFHOCMIDKTBJBIELDIBCGGV&hg=TUEOXMHFPOGFTABISDSRUZIEP&ps=ZWEDDYGCFHAOBPPDSUBRBQTYI&xm=KWZFFIUASAQFMRUNGICQXWWNT
+https://chihuahua.gob.mx/sites/default/atach2/periodico-oficial/periodicos/2026-04/PO29-2026.pdf
+
+==============================================================================
+CIUDAD DE MÉXICO
+2026 — Tabulador General de Precios Unitarios oficial. Portal lista actualizaciones 2026; URL directa validada/indexada para enero 2026.
+
+PORTAL / MÓDULO
+https://www.obras.cdmx.gob.mx/normas-tabulador/tabulador-general-de-precios-unitarios
+https://www.obras.cdmx.gob.mx/normas-tabulador
+
+DOCUMENTO(S) DIRECTO(S)
+https://obras.cdmx.gob.mx/storage/app/media/Tabulador%20general%20de%20precios%20unitarios%20Enero%202026/tabulador-general-de-precios-unitarios-del-gobierno-de-la-ciudad-de-mexico-actualizacion-de-enero-2026.pdf
+
+==============================================================================
+COAHUILA
+Portal estatal vigente de normatividad de obra; bases estatales oficiales de obra a precios unitarios.
+
+PORTAL / MÓDULO
+https://www.sefircoahuila.gob.mx/empresarios/normatividad-en-obra-publica-y-adquisiciones/
+https://www.sefincoahuila.gob.mx/sistemas/Secop/
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.sefircoahuila.gob.mx/wp-content/uploads/normatividad/CONVOCATORIA-BASES-OPE.pdf
+
+==============================================================================
+COLIMA
+2026 — SECOP estatal vigente; se incluyen detalle de procedimiento y descarga oficial de anexo.
+
+PORTAL / MÓDULO
+https://secop.col.gob.mx/
+https://secop.col.gob.mx/secop/detalle_licitacion/NzU5
+
+DOCUMENTO(S) DIRECTO(S)
+https://adminsecop.col.gob.mx/index.php/api//DeArchivosLicitacionapi/DescargarArchivo?id=5149
+https://admiweb.col.gob.mx/archivos_prensa/banco_img/file_69419453112f7_bases_LO_18_2025.pdf
+
+==============================================================================
+DURANGO
+2026 — bases oficiales con análisis de PU, factor de salario real, maquinaria, directos/indirectos.
+
+PORTAL / MÓDULO
+https://comprasestatal.durango.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://comprasestatal.durango.gob.mx/ProcedimientosDeContratacion/descarga/anexo/39394
+https://comprasestatal.durango.gob.mx/ProcedimientosDeContratacion/descarga/anexo/37446
+
+==============================================================================
+GUANAJUATO
+2026 T2 — Tabulador UEC/SOP por regiones; la página oficial permite seleccionar municipio. Es de las fuentes más completas del país.
+
+PORTAL / MÓDULO
+https://obrapublica.guanajuato.gob.mx/unidad-estatal-de-costos/tabuladores-de-referencia/
+https://obrapublica.guanajuato.gob.mx/unidad-estatal-de-costos/
+
+DOCUMENTO(S) DIRECTO(S)
+https://obrapublica.guanajuato.gob.mx/docs/8095/2026._T2._R_I.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8098/2026._T2._R_II.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8099/2026._T2._R_III.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8096/2026._T2._R_IV.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8097/2026._T2._R_V.pdf
+https://obrapublica.guanajuato.gob.mx/docs/8100/2026._T2._R_VI.pdf
+https://obrapublica.guanajuato.gob.mx/docs/4489/Criterios-Generales-del-Tabulador-UEC-SOP-070225.pdf
+
+==============================================================================
+GUERRERO
+2026 — POBALINES/Periódico Oficial y requisitos oficiales de presupuesto/APU. No se localizó tabulador general estatal 2026 abierto con precios.
+
+PORTAL / MÓDULO
+https://www.guerrero.gob.mx/dependencia/sector-central/secretaria-de-desarrollo-urbano-obras-publicas-y-ordenamiento-territorial/
+https://www.guerrero.gob.mx/articulo/politicas-bases-y-lineamientos-en-materia-de-obras-publicas-y-servicios-relacionadas-con-las-mismas/
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.guerrero.gob.mx/wp-content/uploads/2026/03/POBALINES-P.O-11-ALCANCE-IV-06-FEB-2026.pdf
+https://www.guerrero.gob.mx/wp-content/uploads/2026/02/P.O-11-ALCANCE-VII-06-FEB-2026.pdf
+
+==============================================================================
+HIDALGO
+2026 — bases oficiales estatales; el módulo oficial indica uso por dependencias, entidades y municipios.
+
+PORTAL / MÓDULO
+https://ruts.hidalgo.gob.mx/ver/480
+
+DOCUMENTO(S) DIRECTO(S)
+https://s-contraloria.hidalgo.gob.mx/interes/6._Bases_Licitaci%C3%B3n_Obra_Estatal_2026.docx
+https://s-contraloria.hidalgo.gob.mx/interes/7._Bases_Invitaci%C3%B3n_Obra_Estatal_2026.docx
+https://s-contraloria.hidalgo.gob.mx/interes/8._Bases_Licitaci%C3%B3n_Obra_Federal_2026.docx
+https://s-contraloria.hidalgo.gob.mx/interes/9._Bases_Invitaci%C3%B3n_Obra_Federal_2026.docx
+
+==============================================================================
+JALISCO
+SIOP estatal vigente; no se confirmó una URL directa oficial 2026 de bases económicas en la última pasada. Se conserva base estatal oficial 2023 como estructura y se priorizan bases municipales 2026 en archivo municipal.
+
+PORTAL / MÓDULO
+https://siop.jalisco.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://siop.jalisco.gob.mx/sites/siop.jalisco.gob.mx/files/02._bases_obra_estatal_css-206-2023.pdf
+
+==============================================================================
+ESTADO DE MÉXICO
+Existe área estatal de precios unitarios; no se localizó tabulador general 2026 abierto. Se conserva manual oficial que describe actualización de mano de obra, maquinaria/equipo y zonas de costo.
+
+PORTAL / MÓDULO
+https://cemer.edomex.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://cemer.edomex.gob.mx/sites/cemer.edomex.gob.mx/files/files/AIR%202020/007/MO-OBRA%20P%C3%9ABLICA%20pdf.pdf
+
+==============================================================================
+MICHOACÁN
+2026 — bases oficiales CEAC a precios unitarios con requisitos económicos.
+
+PORTAL / MÓDULO
+https://ceac.michoacan.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://ceac.michoacan.gob.mx/wp-content/uploads/2026/02/Bases-CEAC_IFL_SER_LP_001_2026-Operacion-y-Mantenimiento.pdf
+
+==============================================================================
+MORELOS
+Portal estatal de obra vigente; no se localizó tabulador general 2026 abierto. Se incluyen proyecto/base oficial y reglamento como marco.
+
+PORTAL / MÓDULO
+https://www.morelos.gob.mx/sitios/obras-infraestructura/
+https://www.morelos.gob.mx/sitios/obras-infraestructura/dictamen-estructural-del-mercado-adolfo-lopez-mateos-en-cuernavaca-boveda-1
+
+DOCUMENTO(S) DIRECTO(S)
+https://marcojuridico.morelos.gob.mx/archivos/reglamentos_estatales/pdf/RLOBRAPUBEM.pdf
+
+==============================================================================
+NAYARIT
+2026 — existe Departamento de Concursos y Precios Unitarios. Las bases estatales se tramitan/adquieren en ventanilla; no se localizó un tabulador vigente gratuito directo.
+
+PORTAL / MÓDULO
+https://sop.nayarit.gob.mx/
+https://sop.nayarit.gob.mx/?stm_service=inscripcion-al-registro-unico-de-contratistas-2026
+https://sop.nayarit.gob.mx/?stm_service=venta-de-bases-de-licitacion-con-recurso-estatal
+https://sop.nayarit.gob.mx/?stm_service=venta-de-bases-de-licitacion-con-recurso-federal
+
+DOCUMENTO(S) DIRECTO(S)
+NO SE LOCALIZÓ ARCHIVO ECONÓMICO DIRECTO GRATUITO/ESTABLE EN LA PASADA
+
+==============================================================================
+NUEVO LEÓN
+Plataforma estatal de obra/precios unitarios; última base directa localizada cruza dic-2025/ene-2026.
+
+PORTAL / MÓDULO
+https://smpu.nl.gob.mx/
+https://smpu.nl.gob.mx/concurso/1279
+https://www.nl.gob.mx/es/licitacion-publica-de-metrorrey-no-stcm-17-2025-daf
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.nl.gob.mx/sites/default/files/repositorio/Dependencias/Sistema%20de%20Transporte%20Colectivo%20(Metrorrey)/Convocatorias/STCM_17_2025/20251216_bases_anexos.pdf
+
+==============================================================================
+OAXACA
+2026 — bases IOCIFED/IOCIED con APU, salario real/UMA 2026, mano de obra, maquinaria, directos, indirectos, financiamiento y utilidad.
+
+PORTAL / MÓDULO
+https://www.oaxaca.gob.mx/iocifed/
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.oaxaca.gob.mx/iocifed/wp-content/uploads/sites/41/2026/04/LICN00126.pdf
+
+==============================================================================
+PUEBLA
+Portal estatal vigente. Última base estatal detallada localizada: 2025; municipio de Puebla sí tiene bases 2026 detalladas (archivo municipal).
+
+PORTAL / MÓDULO
+https://licitaciones.puebla.gob.mx/
+https://licitaciones.puebla.gob.mx/obra-publica
+
+DOCUMENTO(S) DIRECTO(S)
+https://licitaciones.puebla.gob.mx/images/BASES%20LPN202501.pdf
+
+==============================================================================
+QUERÉTARO
+2026 — portal estatal de licitaciones actualizado; se localizó convocatoria directa 2026 pero no bases económicas completas gratuitas expuestas.
+
+PORTAL / MÓDULO
+https://queretaro.gob.mx/web/sduop/licitaciones-por-anio
+
+DOCUMENTO(S) DIRECTO(S)
+https://queretaro.gob.mx/documents/portlet_file_entry/1077465/Licitacion%2B035-2026%2B034-LP-EST-26-SPC.pdf/58d1fb0f-11b4-80bf-450a-88443f1201ad?download=true&status=0
+
+==============================================================================
+QUINTANA ROO
+2026 — APIQROO publica bases directas con APU, salarios, FSR, maquinaria y costos indirectos.
+
+PORTAL / MÓDULO
+https://licitaciones.apiqroo.com.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://licitaciones.apiqroo.com.mx/storage/Documentos/2026/mayo/API-GI-006-2026-LPE/1779129038-01%20Bases%20Marina%20BP%20006-2026%20LPE.cleaned.pdf
+
+==============================================================================
+SAN LUIS POTOSÍ
+Portal estatal vigente; no se localizó tabulador general 2026 libre. Se conserva repositorio oficial y Ley/estructura; municipio capital tiene base económica detallada en archivo municipal.
+
+PORTAL / MÓDULO
+https://seduvop.slp.gob.mx/
+https://contraloria-seeipg.slp.gob.mx/ProcsPublicosFin.php
+
+DOCUMENTO(S) DIRECTO(S)
+https://contraloria-seeipg.slp.gob.mx/documentos/Ley_de_Obras_Publicas_%2020_Jun_2022%282023%29.pdf
+
+==============================================================================
+SINALOA
+2026 — CompraNet estatal con bases oficiales que incluyen salario base, FSR, maquinaria, directos/indirectos, financiamiento y utilidad.
+
+PORTAL / MÓDULO
+https://compranet.sinaloa.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://compranet.sinaloa.gob.mx/uploads/files/24f987d44590c424176fe82f36ef86bf.pdf
+https://compranet.sinaloa.gob.mx/uploads/files/c3743b75d23f5dce533ee1e971f9879b.pdf
+https://compranet.sinaloa.gob.mx/uploads/files/a17a3923998d25ef6bfef106b3220ed0.pdf
+
+==============================================================================
+SONORA
+CompraNet Sonora; anexos oficiales con formatos económicos (materiales, salario base, maquinaria, costo horario, APU, indirectos). Fecha exacta del anexo debe verificarse dentro del expediente antes de usar precios como 2026.
+
+PORTAL / MÓDULO
+https://compranet.sonora.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://compranet.sonora.gob.mx/Sistema/Anexoes/GetAttachment?anexosId=193177&contratacionId=140576
+https://compranet.sonora.gob.mx/Sistema/Anexoes/GetAttachment?anexosId=192020&contratacionId=140347
+
+==============================================================================
+TABASCO
+2026 — Periódico Oficial contiene lineamientos de obra a precios unitarios y convocatorias 2026. No se localizó un tabulador general 2026 abierto con precios.
+
+PORTAL / MÓDULO
+https://tabasco.gob.mx/PeriodicoOficial
+https://swebrepo.tabasco.gob.mx/cocodi/componentes.php
+https://swebrepo.tabasco.gob.mx/licitaciones/obrapublica/obrapublica-consultacontratos.html
+
+DOCUMENTO(S) DIRECTO(S)
+https://publicacionperiodico.tabasco.gob.mx/documento/7949/firmado_qr.pdf
+https://publicacionperiodico.tabasco.gob.mx/documento/8432/firmado_qr.pdf
+
+==============================================================================
+TAMAULIPAS
+2026 — actas oficiales de obra con matrices/precios unitarios, FSR, salarios, maquinaria y costos económicos de proposiciones.
+
+PORTAL / MÓDULO
+https://www.tamaulipas.gob.mx/obraspublicas/
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.tamaulipas.gob.mx/obraspublicas/wp-content/uploads/sites/9/2026/03/acta-de-presentacion-y-apertura-de-proposiciones-n001-26.pdf
+https://www.tamaulipas.gob.mx/obraspublicas/wp-content/uploads/sites/9/2026/03/acta-de-presentacion-y-apertura-de-proposiciones-n002-26.pdf
+
+==============================================================================
+TLAXCALA
+Última base económica directa localizada: 2025; portal OMG vigente. Incluye APU, FSR, salario base, maquinaria, indirectos y financiamiento.
+
+PORTAL / MÓDULO
+https://omg.tlaxcala.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://omg.tlaxcala.gob.mx/index.php/files/696/CONVOCATORIA-O-INVITACION/6635/INVITACION-AD-021-25.pdf
+
+==============================================================================
+VERACRUZ
+Últimas bases estatales detalladas localizadas: 2025; SIOP vigente. Incluyen FSR, salarios, insumos, indirectos, financiamiento y utilidad.
+
+PORTAL / MÓDULO
+https://www.veracruz.gob.mx/infraestructura/
+
+DOCUMENTO(S) DIRECTO(S)
+https://www.veracruz.gob.mx/infraestructura/wp-content/uploads/sites/17/2025/10/LPE-044-2025-Bases.pdf
+https://www.veracruz.gob.mx/infraestructura/wp-content/uploads/sites/17/2025/10/LPE-051-2025-Bases.pdf
+
+==============================================================================
+YUCATÁN
+Última base detallada localizada: 2025 (JAPAY), con FSR, salarios, costo horario de maquinaria, indirectos y demás integración de PU.
+
+PORTAL / MÓDULO
+https://japay.yucatan.gob.mx/
+
+DOCUMENTO(S) DIRECTO(S)
+https://japay.yucatan.gob.mx/pdf/licitacion/2025/260825/LO-90-006-931045999-N-24-2025/BASES%20N-24.pdf
+
+==============================================================================
+ZACATECAS
+2026 — Función Pública estatal publica anexos técnicos/económicos con FSR, salario base, costos directos y catálogo.
+
+PORTAL / MÓDULO
+https://funcionpublica.zacatecas.gob.mx/licitaciones
+https://catalogoestatal.zacatecas.gob.mx/tramites/3194
+
+DOCUMENTO(S) DIRECTO(S)
+https://funcionpublica.zacatecas.gob.mx/storage/app/uploads/public/67f/961/2b3/67f9612b3705a178707964.pdf
+https://funcionpublica.zacatecas.gob.mx/storage/app/uploads/public/663/8e7/6d6/6638e76d68f1a921910715.pdf
+https://funcionpublica.zacatecas.gob.mx/storage/app/uploads/public/687/ab2/2e7/687ab22e70ce4986517048.pdf
